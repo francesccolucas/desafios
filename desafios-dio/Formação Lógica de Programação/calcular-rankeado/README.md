@@ -1,15 +1,5 @@
 # \# 🕹️ Desafio 2: Calculadora de Partidas Rankeadas
 
-# 
-
-# !\[Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-
-# !\[DIO](https://img.shields.io/badge/DIO-Bootcamp-orange?style=for-the-badge)
-
-# !\[Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
-
-# 
-
 # \## 📝 Descrição do Projeto
 
 # Este projeto faz parte da formação básica da \*\*DIO (Digital Innovation One)\*\*. O objetivo foi desenvolver uma lógica capaz de calcular o saldo de vitórias de um jogador em partidas ranqueadas e determinar seu nível (rank) atual dentro de um sistema competitivo.
@@ -97,4 +87,5 @@
 # &nbsp;  ```bash
 
 # &nbsp;  cd 02-calculadora-partidas-ranqueadas
+
 
